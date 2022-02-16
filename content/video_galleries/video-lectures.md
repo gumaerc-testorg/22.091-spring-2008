@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 2ce6efb6-fa84-1572-d6db-1d1d604b0fdb
 videos:

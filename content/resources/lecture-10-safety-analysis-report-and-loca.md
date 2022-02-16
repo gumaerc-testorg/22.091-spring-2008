@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: 'Lecture Slides ([PDF](resources/mit22_091s08_lec10))#
+
+
+  Teaching Notes ([PDF](resources/mit22_091s08_lec10note))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Safety analysis report and LOCA'
 uid: 59968b0c-4c39-036f-e8a9-727827d7cacf

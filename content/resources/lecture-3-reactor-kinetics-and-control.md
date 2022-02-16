@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: 'Lecture Slides ([PDF](resources/mit22_091s08_lec03))
+
+
+  Teaching Notes ([PDF](resources/mit22_091s08_lec03note))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Reactor kinetics and control'
 uid: a3098cea-b863-b275-945b-77697524a774

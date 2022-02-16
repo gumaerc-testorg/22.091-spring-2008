@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: 'Lecture Slides ([PDF](resources/mit22_091s08_lec02))#
+
+
+  Teaching Notes ([PDF](resources/mit22_091s08_lec02note))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Reactor physics review'
 uid: 67e14ccd-c404-90c7-1b21-64892714c421

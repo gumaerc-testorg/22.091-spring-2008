@@ -2,6 +2,17 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: 'Lecture Slides ([PDF](resources/mit22_091s08_lec24_2))
+
+
+  Teaching Notes ([PDF](resources/mit22_091s08_lec24note))'
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Current Regulatory Safety Issues'
 uid: 24499fea-4c1f-ddf8-8764-7aba55ca24cf

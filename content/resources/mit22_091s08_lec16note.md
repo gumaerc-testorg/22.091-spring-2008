@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Teaching notes for a lecture on the the Seabrook Nuclear Power Plant.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-091-nuclear-reactor-safety-spring-2008/f57aacee52c6633d35a367717c6b6e24_MIT22_091S08_lec16note.pdf
+file: /media/courses/22-091-nuclear-reactor-safety-spring-2008/f57aacee52c6633d35a367717c6b6e24_MIT22_091S08_lec16note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 16 \u2013 Seabrook Station Background Information"
 uid: f57aacee-52c6-633d-35a3-67717c6b6e24

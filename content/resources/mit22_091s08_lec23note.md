@@ -2,8 +2,13 @@
 content_type: resource
 description: Teaching notes for a lecture on new and long standing technical and regulatory
   issues that need to be resolved for safe nuclear operations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-091-nuclear-reactor-safety-spring-2008/070db7b82d4f73556804a1f32a61d91e_MIT22_091S08_lec23note.pdf
+file: /media/courses/22-091-nuclear-reactor-safety-spring-2008/070db7b82d4f73556804a1f32a61d91e_MIT22_091S08_lec23note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 23 \u2013 Current Regulatory Issues"
 uid: 070db7b8-2d4f-7355-6804-a1f32a61d91e

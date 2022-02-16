@@ -3,8 +3,13 @@ content_type: resource
 description: Teaching notes for a lecture on fundamental design issues for nuclear
   plant, basic power needs, reactor physics, heat transfer, material limitations,
   and accident considerations.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-091-nuclear-reactor-safety-spring-2008/80aba4280be7120edb315023412048cf_MIT22_091S08_lec07note.pdf
+file: /media/courses/22-091-nuclear-reactor-safety-spring-2008/80aba4280be7120edb315023412048cf_MIT22_091S08_lec07note.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Lecture: 7 \u2013 Design Issues and Power Cycles for Nuclear Plants - Rankine\
   \ Cycle"
