@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 11 \u2013 Probabilistic Safety Analysis"
 uid: b3a2cb3c-447d-37fe-3d48-97c22b68a5a4

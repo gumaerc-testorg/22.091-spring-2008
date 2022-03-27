@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 16 \u2013 Seabrook Station Background Information"
 uid: f57aacee-52c6-633d-35a3-67717c6b6e24

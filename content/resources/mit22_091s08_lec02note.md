@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 2 \u2013 Reactor Physics Review"
 uid: a5cadee9-c7c2-b901-a413-5444baaab7a5

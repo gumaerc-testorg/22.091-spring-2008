@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -14,6 +15,7 @@ related_resources_text: 'Lecture Slides ([PDF - 2.0MB](resources/mit22_091s08_le
   Teaching Notes ([PDF](resources/mit22_091s08_lec01note))'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction and overview'
 uid: e005e431-6502-1c3e-628f-c2f50ab28b8f
 video_files:

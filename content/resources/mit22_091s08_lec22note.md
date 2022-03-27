@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 22 \u2013 Safety Culture"
 uid: 241ab92c-a1fe-4cc2-a9ad-fe945e71b7fb

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 23 \u2013 Current Regulatory Issues"
 uid: 070db7b8-2d4f-7355-6804-a1f32a61d91e

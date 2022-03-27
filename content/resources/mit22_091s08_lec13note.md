@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 13 \u2013 Integration of Safety Analysis into Operational Requirements"
 uid: ccad672f-e366-3151-bb1a-8ccbee962b46

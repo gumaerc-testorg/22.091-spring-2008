@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 10 \u2013 Safety Analysis Report and LOCA "
 uid: e76118aa-81a3-5ae6-138b-340cd4d5914b

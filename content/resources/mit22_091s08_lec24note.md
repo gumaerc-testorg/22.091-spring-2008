@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5bf0bdaf-63b8-d8a3-bbaf-c6a132061d3e
 resourcetype: Document
 title: "Lecture: 24 \u2013 Current Regulatory Safety Issues"
 uid: a6ce2dea-124d-f7e4-3d62-3e3189c2df89
