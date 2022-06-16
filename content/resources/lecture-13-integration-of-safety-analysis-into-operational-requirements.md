@@ -5,14 +5,15 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: CourseSection
-related_resources_text: 'Lecture Slides ([PDF](resources/mit22_091s08_lec13))
+related_resources_text: 'Lecture Slides ([PDF](/courses/22-091-nuclear-reactor-safety-spring-2008/resources/mit22_091s08_lec13))
 
 
-  Teaching Notes ([PDF](resources/mit22_091s08_lec13note))'
+  Teaching Notes ([PDF](/courses/22-091-nuclear-reactor-safety-spring-2008/resources/mit22_091s08_lec13note))'
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
