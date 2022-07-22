@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information on the required text for the course,
+  a supplemental text for power conversion lectures, general readings, and the schedule
+  of reading assignments.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2a951005-4a33-6bba-3b43-737bbef556f4
 ---
@@ -23,7 +29,7 @@ NRC Regulations Title 10, Code of Federal Regulations – Appendix B to Part 50,
 
 NRC Regulations Title 10, Code of Federal Regulations – Part 50, Domestic Licensing of Production and Utilization Facilities. U. S. NRC.
 
-Safety Culture Evaluation of the Davis-Besse Nuclear Power Station. Conducted by Performance, Safety, and Health Associates, Inc. April 14, 2003. ([PDF]({{< baseurl >}}/resources/mit22_091s08_read04))
+Safety Culture Evaluation of the Davis-Besse Nuclear Power Station. Conducted by Performance, Safety, and Health Associates, Inc. April 14, 2003. ({{% resource_link 68fcd9ed-1779-ee81-7cd5-20dc43aea0e5 "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -203,7 +209,7 @@ FENOC Requests
 
 Sorensen, J. N. "Safety Culture: A Survey of the State-of-the-Art." _Reliability Engineering and System Safety_ 76, (2002): 189-204.
 
-Kadak, Andrew, C. "What's A Safety Culture? How Do I Get It? How Do I Keep It?" Nuclear Nonoperating Owner's Group, Boston, MA (September 28, 1989): 1-11. ([PDF]({{< baseurl >}}/resources/mit22_091s08_read03))
+Kadak, Andrew, C. "What's A Safety Culture? How Do I Get It? How Do I Keep It?" Nuclear Nonoperating Owner's Group, Boston, MA (September 28, 1989): 1-11. ({{% resource_link 80118970-cb1a-6a17-3f2c-bb98b68c7355 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -217,7 +223,7 @@ Kadak, Andrew, C. "What's A Safety Culture? How Do I Get It? How Do I Keep It?" 
 Current regulatory issues
 {{< tdclose >}}
 {{< tdopen >}}
-NRC Generic Letter 92-01, Revision 1, Supplement: Reactor Vessel Structural Integrity. May 19, 1995. U. S. NRC. ([PDF - 2.6MB]({{< baseurl >}}/resources/mit22_091s08_read05))
+NRC Generic Letter 92-01, Revision 1, Supplement: Reactor Vessel Structural Integrity. May 19, 1995. U. S. NRC. ({{% resource_link e9142bf1-0e76-338f-91fb-fa953bdafda8 "PDF - 2.6MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

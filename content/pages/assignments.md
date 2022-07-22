@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on course assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 80fea401-f5d6-5d16-d06b-ce5874dc5248
 ---
@@ -8,11 +12,11 @@ uid: 80fea401-f5d6-5d16-d06b-ce5874dc5248
 
 \[MMEW\] = El-Wakil, M. M. _Nuclear Energy Conversion_. Scranton, PA: Intext Educational Publishers, 1971. ISBN: 9780700223107.
 
-MITR reactor manipulations assignment ([PDF]({{< baseurl >}}/resources/mit22_091s08_assn01))
+MITR reactor manipulations assignment ({{% resource_link 7a63d8be-c0dc-cca9-26bb-3454f2e25dbd "PDF" %}})
 
-PRISM problem set ([PDF]({{< baseurl >}}/resources/mit22_091s08_assn02))
+PRISM problem set ({{% resource_link ec353dd6-cb43-4a0d-75a0-167c78019d8a "PDF" %}})
 
-Simulator assignment ([PDF]({{< baseurl >}}/resources/mit22_091s08_assn03))
+Simulator assignment ({{% resource_link 9af32f28-bfcb-1229-cb31-d93138f0521a "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
