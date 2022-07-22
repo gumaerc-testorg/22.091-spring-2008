@@ -6,6 +6,7 @@ file: /courses/22-091-nuclear-reactor-safety-spring-2008/acf787334ad4bafd90105d9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture: 4 \u2013 Fuel Depletion and Related Effects"
 uid: acf78733-4ad4-bafd-9010-5d95ba0dd6aa
 ---
 Teaching notes for a lecture reviewing the concept of burn up, transmutation, conversion and breeding and the role that samarium and xenon play in operations.
-

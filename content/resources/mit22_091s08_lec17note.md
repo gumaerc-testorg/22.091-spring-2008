@@ -6,6 +6,7 @@ file: /courses/22-091-nuclear-reactor-safety-spring-2008/c14df98097f436d6ed80fd9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture: 17 \u2013 Seabrook Station Simulator Exercises"
 uid: c14df980-97f4-36d6-ed80-fd99b6a879b9
 ---
 Teaching notes for a lecture on what nuclear operators do in normal and transient and accident situations.
-

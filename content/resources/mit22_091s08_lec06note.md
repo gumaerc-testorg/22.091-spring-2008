@@ -7,6 +7,7 @@ file: /courses/22-091-nuclear-reactor-safety-spring-2008/c09bed3375ab4ad058417ca
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: c09bed33-75ab-4ad0-5841-7ca080f54aae
 ---
 Teaching notes for a lecture on the limits to power generation from nuclear reactors that involve power distributions, peaking factors and thermal limits
 on fuel and cladding, and the impacts of control rods on peaking factors.
-

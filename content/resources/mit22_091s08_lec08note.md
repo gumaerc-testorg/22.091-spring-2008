@@ -7,6 +7,7 @@ file: /courses/22-091-nuclear-reactor-safety-spring-2008/e6febb59609bef83f1c5ad1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: e6febb59-609b-ef83-f1c5-ad1539a15d24
 ---
 Teaching notes for a lecture on how Rankine and Brayton cycles work in power production, the use of TS diagrams, superheat, multi-fluid cycles
 and the use of pressure ratios in Brayton cycles. 
-

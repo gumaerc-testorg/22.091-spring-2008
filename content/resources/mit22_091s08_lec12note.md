@@ -6,6 +6,7 @@ file: /courses/22-091-nuclear-reactor-safety-spring-2008/0173a6b0418ef51289cd469
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Lecture: 12 \u2013 Safety Goals and Risk Informed Decision Making"
 uid: 0173a6b0-418e-f512-89cd-469293045512
 ---
 Teaching notes for a lecture on  safety goals and risk informed decision making.
-
