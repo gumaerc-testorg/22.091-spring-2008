@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2008",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -54,6 +55,7 @@
     "Programming Assignments",
     "Written Assignments"
   ],
-  "site_uid": "a28e3f15-11f2-49a1-bafb-c9583eb6324e",
+  "site_uid": "05c85dc7-1207-4ad5-9240-ee87d833da2e",
+  "site_short_id": "22.091-spring-2008",
   "title": "Course Metadata"
 }
