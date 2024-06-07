@@ -3,6 +3,7 @@ content_type: resource
 description: Teaching notes for a lecture on Alloy 600 cracking at the Davis Besse
   Nuclear Power Station.
 file: /courses/22-091-nuclear-reactor-safety-spring-2008/79fb938a658c0c0e311cede704c46966_MIT22_091S08_lec21note.pdf
+file_size: 64819
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

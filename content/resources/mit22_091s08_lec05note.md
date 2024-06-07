@@ -5,6 +5,7 @@ description: Teaching notes for a lecture on reactor physics, reactivity effects
   the effects of thermal feedback, and the reactivity measurements of control rod
   worth.
 file: /courses/22-091-nuclear-reactor-safety-spring-2008/38a867d75a71cd0235ebe5bc75246745_MIT22_091S08_lec05note.pdf
+file_size: 60993
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: Teaching notes for a lecture on the Three Mile Island accident, wha
   hydraulics of the accident which drove the partial meltdown, the failure of systems,
   and lack of operator knowledge and information.
 file: /courses/22-091-nuclear-reactor-safety-spring-2008/5efd8465db131e303e6e48864a39ef7a_MIT22_091S08_lec19note.pdf
+file_size: 65968
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
