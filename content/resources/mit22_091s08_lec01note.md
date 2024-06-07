@@ -4,6 +4,7 @@ description: 'Teaching notes for a lecture reviewing the course lectures and cou
   objective, which is to develop a fundamental understanding of the technical and
   operational aspects of reactor safety. '
 file: /courses/22-091-nuclear-reactor-safety-spring-2008/e139030c6e5fd3deccf7918a8d5c04e1_MIT22_091S08_lec01note.pdf
+file_size: 69269
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
