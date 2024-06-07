@@ -3,6 +3,7 @@ content_type: resource
 description: Teaching notes for a lecture on new and long standing technical and regulatory
   issues that need to be resolved for safe nuclear operations.
 file: /courses/22-091-nuclear-reactor-safety-spring-2008/070db7b82d4f73556804a1f32a61d91e_MIT22_091S08_lec23note.pdf
+file_size: 66910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

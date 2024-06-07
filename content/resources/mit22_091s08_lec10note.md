@@ -4,6 +4,7 @@ description: Teaching notes for a lecture on what goes into a safety analysis re
   analysis of transients and accidents, and the analysis results of a typical loss
   of coolant accident.
 file: /courses/22-091-nuclear-reactor-safety-spring-2008/e76118aa81a35ae6138b340cd4d5914b_MIT22_091S08_lec10note.pdf
+file_size: 66329
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
