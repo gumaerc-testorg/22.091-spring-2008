@@ -4,7 +4,7 @@ description: 'Teaching notes for a lecture on the fundamentals of nuclear reacto
   safety, what goes into a safety analysis, design basis accidents, the safety systems
   needed to mitigate accidents, the concept of defense in depth, and the role of containment
   in the overall strategy of protection of the public. '
-file: /courses/22-091-nuclear-reactor-safety-spring-2008/820341b3efada7f9805cbe5ef997fe16_MIT22_091S08_lec09note.pdf
+file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/820341b3efada7f9805cbe5ef997fe16_MIT22_091S08_lec09note.pdf
 file_size: 66788
 file_type: application/pdf
 learning_resource_types:

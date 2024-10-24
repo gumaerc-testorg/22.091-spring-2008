@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Teaching notes for a lecture on how nuclear plants are designed and
   managed by integrating the safety analysis, NRC requirements and overall operations. '
-file: /courses/22-091-nuclear-reactor-safety-spring-2008/ccad672fe3663151bb1a8ccbee962b46_MIT22_091S08_lec13note.pdf
+file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/ccad672fe3663151bb1a8ccbee962b46_MIT22_091S08_lec13note.pdf
 file_size: 67282
 file_type: application/pdf
 learning_resource_types:
