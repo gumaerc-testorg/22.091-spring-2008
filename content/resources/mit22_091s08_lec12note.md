@@ -2,7 +2,7 @@
 content_type: resource
 description: Teaching notes for a lecture on  safety goals and risk informed decision
   making.
-file: /courses/22-091-nuclear-reactor-safety-spring-2008/0173a6b0418ef51289cd469293045512_MIT22_091S08_lec12note.pdf
+file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/0173a6b0418ef51289cd469293045512_MIT22_091S08_lec12note.pdf
 file_size: 65182
 file_type: application/pdf
 learning_resource_types:
