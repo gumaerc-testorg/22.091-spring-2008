@@ -2,7 +2,7 @@
 content_type: resource
 description: Teaching notes for a lecture on what nuclear operators do in normal and
   transient and accident situations.
-file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/c14df98097f436d6ed80fd99b6a879b9_MIT22_091S08_lec17note.pdf
+file: /courses/22-091-nuclear-reactor-safety-spring-2008/c14df98097f436d6ed80fd99b6a879b9_MIT22_091S08_lec17note.pdf
 file_size: 61460
 file_type: application/pdf
 learning_resource_types:
