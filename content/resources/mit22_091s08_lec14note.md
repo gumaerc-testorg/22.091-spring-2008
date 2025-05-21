@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Teaching notes for a lecture on using PRISM software to observe plant
   response to transients and accidents. '
-file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/5b177bb2015461fca66dc2c38f802c56_MIT22_091S08_lec14note.pdf
+file: /courses/22-091-nuclear-reactor-safety-spring-2008/5b177bb2015461fca66dc2c38f802c56_MIT22_091S08_lec14note.pdf
 file_size: 61283
 file_type: application/pdf
 learning_resource_types:
