@@ -2,7 +2,7 @@
 content_type: resource
 description: Teaching notes for a lecture on probabilistic risk assessments in design
   and operation.
-file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/b3a2cb3c447d37fe3d4897c22b68a5a4_MIT22_091S08_lec11note.pdf
+file: /courses/22-091-nuclear-reactor-safety-spring-2008/b3a2cb3c447d37fe3d4897c22b68a5a4_MIT22_091S08_lec11note.pdf
 file_size: 71032
 file_type: application/pdf
 learning_resource_types:
