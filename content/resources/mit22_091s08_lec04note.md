@@ -2,7 +2,7 @@
 content_type: resource
 description: Teaching notes for a lecture reviewing the concept of burn up, transmutation,
   conversion and breeding and the role that samarium and xenon play in operations.
-file: /courses/22-091-nuclear-reactor-safety-spring-2008/acf787334ad4bafd90105d95ba0dd6aa_MIT22_091S08_lec04note.pdf
+file: /ol-ocw-studio-app/courses/22-091-nuclear-reactor-safety-spring-2008/acf787334ad4bafd90105d95ba0dd6aa_MIT22_091S08_lec04note.pdf
 file_size: 68301
 file_type: application/pdf
 learning_resource_types:
