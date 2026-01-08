@@ -92,7 +92,7 @@ Final exam
 MIT Literature Statement on Plagiarism
 --------------------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "ccda1632-fcda-471c-879f-ba12cf347f8c" "Writing and Communication Center" %}} and the {{% resource_link "b926c8e1-b3b0-4678-9662-0f37b03c8624" "MIT Web site on Plagiarism" %}}.
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
 
 Calendar
 --------
